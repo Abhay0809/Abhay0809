@@ -1,7 +1,6 @@
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   नमस्ते (Namaste), I'm Abhay Anand!
-  <img src="https://cdn.discordapp.com/attachments/584761206980739073/1394010244518252707/cat.webp?ex=687540b5&is=6873ef35&hm=6d4874df56b42daf8fa7f209865cb6548de88b77e894f4fd44c5e44741ef290a&" width="50">
 </h2>
 
 <img align='right' src="https://cdn.discordapp.com/attachments/584761206980739073/1394012478291316866/penguin-computer-ezgif.com-crop.gif?ex=687542ca&is=6873f14a&hm=9f4a9f5f9fc18ade864beeeaaf236880abacc4c9ca4383b6ed99c8c58d4785b0&" width="230">
