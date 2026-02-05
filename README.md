@@ -35,9 +35,9 @@ const abhay = {
     ],
     technologies: {
         automation: {
-            frameworks: ["Selenium", "Pytest", "Cucumber", "JUnit", "TestNG"],
+            frameworks: ["Selenium", "Playwright", "Pytest", "Cucumber", "JUnit", "TestNG"],
             patterns: ["POM", "Data-Driven Testing", "Hybrid Frameworks"],
-            orchestration: ["n8n", "Zapier"],
+            orchestration: ["n8n", "Zapier", "LangFlow"],
             reporting: ["Extent Reports", "Cucumber HTML Reports"],
         },
         ciCd: ["Jenkins", "Maven", "Gradle", "GitHub Actions", "Docker🐳"],
